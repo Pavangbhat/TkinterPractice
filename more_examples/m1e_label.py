@@ -46,7 +46,7 @@ def main():
 
 
 def change_title(root):
-    # Make a new 8-letter title chosen randomly from 'A' to 'Z'.
+    """ Make a new 8-letter title chosen randomly from 'A' to 'Z'."""
     new_title = ''
     for k in range(8):  # @UnusedVariable
         new_title = new_title + chr(ord('A') + random.randrange(26))
