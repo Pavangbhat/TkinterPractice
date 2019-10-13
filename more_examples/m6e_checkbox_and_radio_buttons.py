@@ -90,6 +90,6 @@ def button_pressed(checkbutton_observer, radiobutton_observer):
 
 
 # ----------------------------------------------------------------------
-# Calls  main  to start the ball rolling.
+# # Calls  main  to start the ball rolling.
 # ----------------------------------------------------------------------
 main()
