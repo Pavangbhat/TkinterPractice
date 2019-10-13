@@ -1,5 +1,5 @@
 """
-Example showing for tkinter and ttk:
+#Example showing for tkinter and ttk:
   -- ttk.Label
   -- ttk.Button
   -- ttk.Frame
